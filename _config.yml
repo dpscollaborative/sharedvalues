@@ -1,1 +1,16 @@
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - CONTRIBUTING.md
+  - README.md
+  - LICENSE.md
+  - shared-values_de.md
+  - shared-values_en.md
+  - shared-values_es.md
+  - shared-values_fr.md
+  - shared-values_pt.md
 theme: jekyll-theme-slate
+title: Digital Preservation Services Collaborative
