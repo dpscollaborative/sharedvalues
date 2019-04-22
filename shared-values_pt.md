@@ -38,4 +38,4 @@ Esta declaração de valores compartilhados estabelece o seguinte:
 
 Além disso, a declaração de valores compartilhados não especifica que valores, princípios e normas são mais importantes e devem sobrepor-se aos outros em casos de conflito. Diferenças razoáveis de opinião podem e devem existir entre a nossa comunidade. Vamos trabalhar juntos para resolver os conflitos de maneiras que apoiem e promovam o nosso objetivo comum.
 
-O nosso trabalho e o pensamento evoluirão ao longo do tempo. Nós nos esforçamos para incluir as partes interessadas de todo o mundo e convidamos todos os interessados a se juntarem a trabalhar em conjunto para preservar o registro coletivo da humanidade. [Contate o nosso grupo](mailto:comdigpres@googlegroups.com) faça perguntas e/ou participe
+O nosso trabalho e o pensamento evoluirão ao longo do tempo. Nós nos esforçamos para incluir as partes interessadas de todo o mundo e convidamos todos os interessados a se juntarem a trabalhar em conjunto para preservar o registro coletivo da humanidade. [Contate o nosso grupo](mailto:dpscollaborative@googlegroups.com) faça perguntas e/ou participe

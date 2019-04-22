@@ -36,6 +36,6 @@ This declaration of shared values accomplishes the following:
 
 The declaration of shared values does not specify which values, principles, and standards are most important and ought to outweigh others in instances when they conflict. Reasonable differences of opinion can and do exist among our community. We will work together to resolve those conflicts in ways that support and promote our common goal.
 
-Our work and thinking will evolve over time. We will strive to include stakeholders from all over the world and we invite those interested to join us in working together to preserve the collective human record. [Contact our group](mailto:comdigpres@googlegroups.com) to ask questions and/or participate. 
+Our work and thinking will evolve over time. We will strive to include stakeholders from all over the world and we invite those interested to join us in working together to preserve the collective human record. [Contact our group](mailto:dpscollaborative@googlegroups.com) to ask questions and/or participate. 
 
 <sup>1</sup> [Short Definition of Digital Preservation](http://www.ala.org/alcts/resources/preserv/defdigpres0408) by the Association of Library Collections and Technical Services, a Division of the American Library Association

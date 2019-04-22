@@ -36,4 +36,4 @@ Esta Declaración logra lo siguiente:
 
 Además, la Declaración  no especifica qué valores, principios y estándares son más importantes y deben superar a los demás en los casos en que entran en conflicto. Pueden existir diferencias razonables de opinión y de hecho existen entre nuestra comunidad. Trabajaremos juntos para resolver esos conflictos de forma que apoye y promueva nuestro objetivo común.
 
-Nuestro trabajo y pensamiento evolucionan con el tiempo. Nos esforzaremos por incluir a partes interesadas de todo el mundo e invitamos a los interesados a unirse a nosotros para trabajar juntos en la preservación del registro humano colectivo. [Comuníquese con nuestro grupo](mailto:comdigpres@googlegroups.com) en para hacer preguntas y/o participar. 
+Nuestro trabajo y pensamiento evolucionan con el tiempo. Nos esforzaremos por incluir a partes interesadas de todo el mundo e invitamos a los interesados a unirse a nosotros para trabajar juntos en la preservación del registro humano colectivo. [Comuníquese con nuestro grupo](mailto:dpscollaborative@googlegroups.com) en para hacer preguntas y/o participar. 

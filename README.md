@@ -17,7 +17,7 @@ The initial group of contributing organizations:
 
 In 2017 and 2018 this group drafted a Digital Preservation Declaration of Shared Values that seeks to capture the mission of our shared work and the values that govern that work.
 
-Our work and thinking will evolve over time. We will strive to include stakeholders from all over the world and we invite those interested to join us in working together to preserve the collective human record. [Contact our group](mailto:comdigpres@googlegroups.com) to ask questions and/or participate. 
+Our work and thinking will evolve over time. We will strive to include stakeholders from all over the world and we invite those interested to join us in working together to preserve the collective human record. [Contact our group](mailto:dpscollaborative@googlegroups.com) to ask questions and/or participate. 
 
 ### Digital Preservation Declaration of Shared Values
 * [English](shared-values_en.md)
