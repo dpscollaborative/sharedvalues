@@ -1,6 +1,11 @@
 # Digital Preservation Declaration of Shared Values
 
+The Digital Preservation Services Collaborative has expanded and revised the Declaration of Shared Values. Please review [Version 3](shared-values_en_v3.md) and submit your feedback by the end of August 2022.
+
+---
+
 Published: April 12, 2018
+
 Version 2
 
 *Issued by representatives of Academic Preservation Trust (APTrust), Chronopolis, CLOCKSS, Coalition for Networked Information (CNI), Digital Preservation Network (DPN), DuraSpace, Educopia/MetaArchive Cooperative, HathiTrust, Stanford University - LOCKSS, Texas Digital Library (TDL), Council of Prairie and Pacific University Libraries (COPPUL).*
