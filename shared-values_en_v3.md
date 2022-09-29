@@ -2,7 +2,9 @@
 
 Since its release at the fall 2017 Coalition for Networked Information (CNI) meeting, many people have engaged with the Digital Preservation Declaration of Shared Values. Community input resulted in the publication of Version 2, below. Once again, the DPSC has expanded and revised the document to be more comprehensive and explicit about its purpose and motivation.
 
-Please review and add your thoughts to the draft: **[Digital Preservation Declaration of Shared Values Version 3 Draft - Copy for Comments](https://docs.google.com/document/d/1LZxybbPym1CyqwHE9-PZpcqzz6L1jQ-fGCuYx7eyi1A/edit?usp=sharing)**. The comment period will be open until the end of August 2022.
+Please review and add your thoughts to the draft: **[Digital Preservation Declaration of Shared Values Version 3 Draft - Copy for Comments](https://docs.google.com/document/d/1LZxybbPym1CyqwHE9-PZpcqzz6L1jQ-fGCuYx7eyi1A/edit?usp=sharing)**. 
+
+**COMMENT PERIOD EXTENDED:** The comment period will now be open until the end of November 2022.
 
 The full text of the draft can also be viewed below. 
 
