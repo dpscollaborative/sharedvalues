@@ -15,7 +15,7 @@ The initial group of contributing organizations:
 * Texas Digital Library (TDL)
 * Council of Prairie and Pacific University Libraries (COPPUL)
 
-In 2017 and 2018 this group drafted a Digital Preservation Declaration of Shared Values that seeks to capture the mission of our shared work and the values that govern that work.
+In 2017 and 2018 this group drafted a Digital Preservation Declaration of Shared Values that seeks to capture the mission of our shared work and the values that govern that work. Revisions continued from the initial publication, resulting in the January 2024 publication of Version 4 in English.
 
 Our work and thinking will evolve over time. We will strive to include stakeholders from all over the world and we invite those interested to join us in working together to preserve the collective human record. [Contact our group](mailto:dpscollaborative@googlegroups.com) to ask questions and/or participate. 
 
