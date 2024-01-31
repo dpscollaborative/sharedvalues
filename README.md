@@ -20,8 +20,8 @@ In 2017 and 2018 this group drafted a Digital Preservation Declaration of Shared
 Our work and thinking will evolve over time. We will strive to include stakeholders from all over the world and we invite those interested to join us in working together to preserve the collective human record. [Contact our group](mailto:dpscollaborative@googlegroups.com) to ask questions and/or participate. 
 
 ### Digital Preservation Declaration of Shared Values
-* [English](shared-values_en.md)
-* [French / Français](shared-values_fr.md)
-* [German / Deutsche](shared-values_de.md)
-* [Portuguese / Português](shared-values_pt.md)
-* [Spanish / Español](shared-values_es.md)
+* v4 [English](shared-values_en_v4.md)
+* v1 [French / Français](shared-values_fr.md)
+* v1 [German / Deutsche](shared-values_de.md)
+* v1 [Portuguese / Português](shared-values_pt.md)
+* v1 [Spanish / Español](shared-values_es.md)
